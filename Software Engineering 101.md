@@ -207,4 +207,7 @@ about documentation.
     - Easily move or adapt to another platform.  
     
 We need to establish a reasonable balance between all these characteristics since we won't be able to assure all.
+
+
+NOTE: These notes are based on the course module on patika.net [Click Here To Go To The Course Module (Turkish)](https://app.patika.dev/moduller/yazilim-muhendisligi-101)
     
